@@ -29,7 +29,7 @@ The system follows a microservices-based architecture:
 ## Installation and Setup  
 1. **Clone the Repository**  
    ```bash  
-   git clone https://github.com/your-username/flipkart-courier-service.git
+   git clone https://github.com/Rahul-Usare/flipkart-courier-service.git
    
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
